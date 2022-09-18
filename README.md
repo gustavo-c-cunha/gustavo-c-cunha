@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi There! 👋
 
-<!--
+I am Gustavo, Computer Science student at Federal University of Santa Catarina (UFSC). I have experience in Python Language and web development, also knowledges of agile methods and teamwork experience. Here, you will find some projects from college, personal projects and studies.
+
+📫 [E-mail](mailto:gustavocorreadacunha@outlook.com) &nbsp; | &nbsp;
+👔 [Linkedin](https://www.linkedin.com/in/gustavoccunha/)
+
+<!-- Comentários
 **gustavo-c-cunha/gustavo-c-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
